@@ -1,0 +1,7 @@
+.venv
+output.txt
+decompiled.luau
+*.luac
+*.pyc
+__pycache__
+compile/compilers
